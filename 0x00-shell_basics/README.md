@@ -5,3 +5,4 @@
 4-listmorefiles:display all contents including hidden using long format
 5-listfilesdigitonly:display files digit only
 6-firstdirectory:creates my first directory
+7-movethatfile:moves betty file
