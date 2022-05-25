@@ -10,3 +10,4 @@
 9-deleted first directory
 10-moved to previous directory
 11-list all three directory files
+12-tells file type
