@@ -13,3 +13,4 @@
 12-tells file type
 13-creates symbolic link
 14-copy all unique html files to previous directory
+15-moves uppercase files to u directory
