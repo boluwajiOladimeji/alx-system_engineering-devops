@@ -16,3 +16,4 @@
 15-moves uppercase files to u directory
 16-delets all files ending with ~
 17-makes 3 different directories in a tree
+18-sort with commas
