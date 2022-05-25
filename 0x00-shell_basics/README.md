@@ -4,3 +4,4 @@
 3-listfiles:display current directory contents in a long format
 4-listmorefiles:display all contents including hidden using long format
 5-listfilesdigitonly:display files digit only
+6-firstdirectory:creates my first directory
