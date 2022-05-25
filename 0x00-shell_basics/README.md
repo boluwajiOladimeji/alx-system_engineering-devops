@@ -17,3 +17,4 @@
 16-delets all files ending with ~
 17-makes 3 different directories in a tree
 18-sort with commas
+19-magic school file
