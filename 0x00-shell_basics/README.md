@@ -8,3 +8,4 @@
 7-movethatfile:moves betty file
 8-deleted betty file
 9-deleted first directory
+10-moved to previous directory
