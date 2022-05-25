@@ -14,3 +14,4 @@
 13-creates symbolic link
 14-copy all unique html files to previous directory
 15-moves uppercase files to u directory
+16-delets all files ending with ~
