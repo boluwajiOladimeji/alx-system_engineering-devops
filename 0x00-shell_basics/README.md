@@ -12,3 +12,4 @@
 11-list all three directory files
 12-tells file type
 13-creates symbolic link
+14-copy all unique html files to previous directory
