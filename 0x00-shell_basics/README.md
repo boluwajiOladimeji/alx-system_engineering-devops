@@ -6,3 +6,4 @@
 5-listfilesdigitonly:display files digit only
 6-firstdirectory:creates my first directory
 7-movethatfile:moves betty file
+8-deleted betty file
