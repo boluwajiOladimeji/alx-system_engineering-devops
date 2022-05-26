@@ -5,3 +5,4 @@
 4-empty file
 5-adds execute
 6-adds ug execute and others read
+7-permissions to everybody
