@@ -2,3 +2,4 @@
 1-display current user
 2-list groups of user
 3-change ownership of file
+4-empty file
