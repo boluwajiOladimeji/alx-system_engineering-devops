@@ -4,3 +4,4 @@
 3-change ownership of file
 4-empty file
 5-adds execute
+6-adds ug execute and others read
