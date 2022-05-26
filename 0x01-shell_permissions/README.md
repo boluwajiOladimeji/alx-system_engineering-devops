@@ -6,3 +6,4 @@
 5-adds execute
 6-adds ug execute and others read
 7-permissions to everybody
+8-James Bond Permissions"
