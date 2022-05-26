@@ -7,3 +7,4 @@
 6-adds ug execute and others read
 7-permissions to everybody
 8-James Bond Permissions"
+9-Johndoe
