@@ -16,3 +16,4 @@
 15-count lines
 16-nextlines
 17-hide word
+18-letter
