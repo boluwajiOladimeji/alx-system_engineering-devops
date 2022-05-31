@@ -7,3 +7,4 @@
 6-create local variable
 7-create global variable
 8-knowledge
+9-divide and rule
