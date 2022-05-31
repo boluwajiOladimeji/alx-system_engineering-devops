@@ -6,3 +6,4 @@
 5-local variable
 6-create local variable
 7-create global variable
+8-knowledge
