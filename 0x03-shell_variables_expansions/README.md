@@ -4,3 +4,4 @@
 3-paths
 4-global variable
 5-local variable
+6-create local variable
