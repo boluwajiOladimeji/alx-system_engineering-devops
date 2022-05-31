@@ -8,3 +8,4 @@
 7-create global variable
 8-knowledge
 9-divide and rule
+10-breath to power of love
