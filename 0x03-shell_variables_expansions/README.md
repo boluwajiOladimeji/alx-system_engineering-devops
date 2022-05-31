@@ -14,3 +14,4 @@
 13-float
 14-hexadecimal
 15-rot13
+16-odd
