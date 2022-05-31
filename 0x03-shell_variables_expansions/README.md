@@ -12,3 +12,4 @@
 11-binary
 12-combinations
 13-float
+14-hexadecimal
