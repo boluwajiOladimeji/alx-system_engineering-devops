@@ -9,3 +9,4 @@
 8-knowledge
 9-divide and rule
 10-breath to power of love
+11-binary
